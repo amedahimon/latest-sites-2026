@@ -1575,3 +1575,8 @@
 ---
 ## 推荐阅读 / 友情链接
 1. [2026.06.07 最新企业建站网站](https://github.com/arparj/latest-sites-2026/blob/main/2026.06.07%20%E6%9C%80%E6%96%B0%E4%BC%81%E4%B8%9A%E5%BB%BA%E7%AB%99%E7%BD%91%E7%AB%99.md)
+
+
+---
+## 联合推荐（友情互链）
+1. [2026.06.07 最新建站企业名录 - arparj](https://github.com/arparj/latest-sites-2026/blob/main/2026.06.07%20%E6%9C%80%E6%96%B0%E4%BC%81%E4%B8%9A%E5%BB%BA%E7%AB%99%E7%BD%91%E7%AB%99.md)
