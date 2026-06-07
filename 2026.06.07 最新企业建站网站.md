@@ -795,3 +795,8 @@
 773. [音皇音乐中心](http://www.kmegschool.com)
 774. [苏州嘉嘉发新材料科技有限公司](http://szjjf.net)
 775. [承兴公司](http://www.cxylsw.com)
+
+
+---
+## 联合推荐（友情互链）
+1. [2026.06.07 最新建站企业名录 - arparj](https://github.com/arparj/latest-sites-2026/blob/main/2026.06.07%20%E6%9C%80%E6%96%B0%E4%BC%81%E4%B8%9A%E5%BB%BA%E7%AB%99%E7%BD%91%E7%AB%99.md)
